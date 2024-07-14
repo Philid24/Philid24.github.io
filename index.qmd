@@ -1,5 +1,5 @@
 ---
-title: "Philid24.github.io"
+title: "My wag tail blog"
 listing:
   contents: posts
   sort: "date desc"

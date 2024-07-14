@@ -1,0 +1,11 @@
+---
+title: "My first post"
+author: "Philippa Dismorr"
+date: "2024-07-14"
+image: wag_tail.jpg
+---
+## Welcome to my blog about wag tails. 
+
+This is the first post. 
+
+![Wag tail](wag_tail.jpg)

@@ -6,6 +6,6 @@ image: wag_tail.jpg
 ---
 ## Welcome to my blog about wag tails. 
 
-This is the first post. 
+This is the first post about wagtails. Wagtails are strongly patterned birds of beaches, meadows, and streamsides; they usually nest on the ground but roost in trees. The birds are so named because they incessantly wag their long tails up and down. (Britannica)
 
 ![Wag tail](wag_tail.jpg)

@@ -3,9 +3,7 @@
     "listing": "/index.html",
     "items": [
       "/posts/wagtails-are-mysterious/intro.html",
-      "/posts/post-with-code/index.html",
-      "/posts/my-first-post/index.html",
-      "/posts/welcome/index.html"
+      "/posts/my-first-post/index.html"
     ]
   }
 ]

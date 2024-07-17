@@ -11,4 +11,4 @@ about:
 
 ---
 
-A beginners guide to Wagtails. 
+A beginners guide to birds through the exploration of Wagtails. 

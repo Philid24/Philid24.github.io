@@ -2,7 +2,7 @@
 title: "Starting from the beginning"
 author: "Philippa Dismorr"
 date: "2024-07-17"
-image: wag_tail.jpg
+image: Classifying-birdspng.png
 ---
 
 ## Definition and origin 

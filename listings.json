@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/defining-wagtails/index.html",
       "/posts/wagtails-are-mysterious/intro.html",
       "/posts/my-first-post/index.html"
     ]

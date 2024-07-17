@@ -11,4 +11,4 @@ about:
 
 ---
 
-A bird exploration. 
+A beginners guide to Wagtails. 

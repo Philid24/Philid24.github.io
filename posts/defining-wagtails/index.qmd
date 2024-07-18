@@ -7,7 +7,7 @@ image: Classifying-birdspng.png
 
 ## Definition and Origin 
 
-Before i begin introducing the definition and description of Wagtails i realize i personally need a beginners guide to Ornithology; bird terminology and classification.
+Before i begin introducing the definition and description of Wagtails i realize i personally need a beginners guide to bird terminology and classification.
 {{< pagebreak >}}
 Genus = Class or group 
 Passerine birds = having feet that are adapted to perching, includes all songbirds.

@@ -1,5 +1,5 @@
 ---
-title: "Starting from the beginning"
+title: "Wagtails, starting with the basics"
 author: "Philippa Dismorr"
 date: "2024-07-17"
 image: Classifying-birdspng.png

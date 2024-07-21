@@ -6,7 +6,7 @@ image: african-pied-wagtail.webp
 ---
 ## African Pied Wagtail
 
-As we are living in Kenya, focus will be on the only black and white wagtail found in Africa: the African Pied Wagtail (Motacilla aguimp). This species is prevalent throughout the country.
+The African Pied Wagtail (Motacilla Aguimp) is the only black and white wagtail found in Africa. This species is prevalent throughout the country.
 The young African Pied Wagtails sport a brownish plumage, which transforms as they mature. Adult birds are easily recognizable by their distinct black and white coloration, they also have a prominent white eyebrow stripe
 
 Habitat and Social Behavior

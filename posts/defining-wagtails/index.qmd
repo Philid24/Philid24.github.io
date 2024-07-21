@@ -9,7 +9,7 @@ image: Classifying-birdspng.png
 
 Before i begin introducing the definition and description of Wagtails i realize i personally need a beginners guide to bird terminology and classification.
 {{< pagebreak >}}
-Genus = Class or group 
+Genus = Class or group, 
 Passerine birds = having feet that are adapted to perching, includes all songbirds.
 
 So, Wagtails are *passerine* birds. They belong to the *genus* "Motacilla" (a latin name introduced by Swedish Naturalist Carl Von Linnaeus in 1758). The Motacillas are part of the family Motacillidae, which include Wagtails, Pipits and Longclaws. Within the Motacilla genus (Wagtails) there are 13 different species which are found all over the world. Now it starts to get confusing, (at least for me) because there are other types of wagtails that **do not** belong to the same genus. For example, the Willie Wagtail from Australia does not have the same genus, it belongs to group called Fantails. 

@@ -7,13 +7,31 @@ image: Classifying-birdspng.png
 
 ## Definition and Origin 
 
-Before i begin introducing the definition and description of Wagtails i realize i personally need a beginners guide to bird terminology and classification.
+The first bird i will explore is the Pied Wagtail. However, before i begin introducing the definition and description of Wagtails, i realize i personally need a beginners guide to bird terminology and classification.
 {{< pagebreak >}}
 Genus = Class or group, 
 Passerine birds = having feet that are adapted to perching, includes all songbirds.
 
+For a comprehensive collection of bird terminology check out Bird Academy by Cornell Lab, see link: https://academy.allaboutbirds.org/bird-academys-a-to-z-glossary-of-bird-terms/. I will add definitions and descriptions as they come up in my exploration. 
+
 So, Wagtails are *passerine* birds. They belong to the *genus* "Motacilla" (a latin name introduced by Swedish Naturalist Carl Von Linnaeus in 1758). The Motacillas are part of the family Motacillidae, which include Wagtails, Pipits and Longclaws. Within the Motacilla genus (Wagtails) there are 13 different species which are found all over the world. Now it starts to get confusing, (at least for me) because there are other types of wagtails that **do not** belong to the same genus. For example, the Willie Wagtail from Australia does not have the same genus, it belongs to group called Fantails. 
+
+The African Pied Wagtail (Motacilla Aguimp) is the only black and white wagtail found in Africa. This species is prevalent throughout the country.The young African Pied Wagtails sport a brownish plumage, which transforms as they mature. Adult birds are easily recognizable by their distinct black and white coloration, they also have a prominent white eyebrow stripe
+
+These adaptable birds thrive in a variety of environments: Urban and suburban areas, including residential lawns (as observed in our own backyards where ever we have lived). Otherwise they are known to be spotted in the wirld by natural water sources. A fun fact i just learnt, they have been known to nest in unusual spots like in cars and abandoned machinery. 
+
+African Pied Wagtails are social creatures, often seen,moving in pairs and family groups.They run along the ground in search of insects and perform exaggerated tail-wagging motions. The female will build the nest on its own, but the male and female will feed and look after their young with equal responsibility. 
+
+
+Opportunistic feeding strategy:
+
+Catch flying insects mid-air,
+Pick insects off the ground,
+Consume already dead insects when available.
+Capable of impressive leaps to catch airborne prey, such as butterflies (as witnessed some months ago in our backyard). 
+
+Here are a collection of videos and overview information i found on the net about African Pied Wagtails see link : https://ebird.org/species/afpwag1
 
 See link to birdsoftheworld.org for images of Wagtails and other Motacillidaes.
 
-Side note Cornell Lab has an excellent (free) app for learning about and identifying the birds you see. 
+Side note Cornell Lab also has an excellent (free) app for learning about and identifying the birds you see. 

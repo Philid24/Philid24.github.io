@@ -7,9 +7,14 @@ image: Classifying-birdspng.png
 
 ## Definition and Origin 
 
-The first bird i will explore is the Pied Wagtail.
+The first bird i will explore is the Pied Wagtail. Isnt it beautiful? It can be spotted most places as it is a very adaptable bird. 
 
-![Pied Wagtail](wagtail.jpg) However, before i begin introducing the definition and description of Wagtails, i realize i personally need a beginners guide to bird terminology and classification.
+![Pied Wagtail](wagtail.jpg)  
+
+Before i begin introducing the definition and description of Wagtails, i realize i personally need a beginners guide to bird terminology and classification.
+
+
+
 ![Bird, bird-watching](bird-birdwatching.webp)
 
 {{< pagebreak >}}

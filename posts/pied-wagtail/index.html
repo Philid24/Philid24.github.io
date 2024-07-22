@@ -154,7 +154,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="african-pied-wagtail" class="level2">
 <h2 class="anchored" data-anchor-id="african-pied-wagtail">African Pied Wagtail</h2>
 <p>The African Pied Wagtail (Motacilla Aguimp) is the only black and white wagtail found in Africa. This species is prevalent throughout the country. The young African Pied Wagtails sport a brownish plumage, which transforms as they mature. Adult birds are easily recognizable by their distinct black and white coloration, they also have a prominent white eyebrow stripe</p>
-<p>Habitat and Social Behavior These adaptable birds thrive in a variety of environments: Urban and suburban areas, including residential lawns (as observed in our own backyard). Otherwise in natural habitat they are mostly spotted near water sources</p>
+<p>These adaptable birds thrive in a variety of environments: Urban and suburban areas, including residential lawns (as observed in our own backyard). Otherwise they are mostly spotted near natural water sources.</p>
 <p>African Pied Wagtails are social creatures, often seen,moving in pairs and family groups.They run along the ground in search of insects and perform exaggerated tail-wagging motions (the purpose of which remains unclear still to me?)</p>
 <p>Opportunistic feeding strategy:</p>
 <p>Catch flying insects mid-air Pick insects off the ground Consume already dead insects when available</p>
@@ -248,7 +248,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/Philid24\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

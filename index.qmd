@@ -1,5 +1,5 @@
 ---
-title: "My wag tail blog"
+title: "My animal blog"
 listing:
   contents: posts
   sort: "date desc"

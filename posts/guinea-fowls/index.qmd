@@ -6,13 +6,13 @@ image: guinea.fowl.jpg
 categories: [birds]
 ---
 
+## Guinea Fowl
 ![A white Guinea fowl in the bunch](white-guinea-fowl.jpeg)
 
+While stopping for a night in Mombasa, we spotted one white guinea fowl in a flock of the "usual" spotted ones running around in the hotel gardens. This breed is called the White African Guinea Fowl, a variant of the more common Helmeted Guinea Fowl (Numida meleagris).Unlike their wild counterparts, which have dark feathers with white spots, White African Guinea Fowl have pure white plumage. They retain the characteristic bare head and neck of the species.
 
+The helmeted Guineafowl is the most well known of all the Guinea fowl, they are native to Africa and prefer open grasslands, savannas, and lightly wooded areas. They have adapted well to human-altered landscapes, including farms and gardens. These birds are highly social and typically live in flocks of about 25. They are known for their loud, chattering vocalizations, which they use for communication within the group. They are known as *gallinaceaous* birds,  meaning they are not cut out for flying, but i will look up the exact meaning and add the proper terminology below. They are known to walk/run 10km a day! 
 
-While stopping for a night in Mombasa, we spotted a white guinea fowl in the hotel gardens, which was a first for me! This breed is called the White African Guinea Fowl, a variant of the more common Helmeted Guinea Fowl (Numida meleagris). These beautiful birds are known for their distinctive appearance and interesting behaviors:
+While they can be kept in enclosures, they thrive when allowed to roam freely. This behavior is beneficial for pest control, as they eat insects and small rodents. Another interesting fact is that they are known to eat large amounts of ticks, which would otherwise run the risk of spreading lyme disease. 
 
-Appearance: Unlike their wild counterparts, which have dark feathers with white spots, White African Guinea Fowl have pure white plumage. They retain the characteristic bare head and neck of the species.
-Habitat: Guinea fowl are native to Africa and prefer open grasslands, savannas, and lightly wooded areas. They have adapted well to human-altered landscapes, including farms and gardens.
-Behavior: These birds are highly social and typically live in flocks. They are known for their loud, chattering vocalizations, which they use for communication within the group.
-Free-ranging nature: Guinea fowl are indeed known for their love of free-ranging. While they can be kept in enclosures, they thrive when allowed to roam freely. This behavior is beneficial for pest control, as they eat insects and small rodents.
+[^1]:*Galliformes* "An order of birds of largely terrestrial habits that are mostly rather large and heavy bodied with short wings, legs adpated for running and scratching the ground where most of their food is found." Merria-Webster 

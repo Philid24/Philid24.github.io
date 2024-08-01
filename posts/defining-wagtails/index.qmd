@@ -15,7 +15,6 @@ The first bird i will explore is the Pied Wagtail. Isnt it beautiful? It can be 
 Before i begin introducing the definition and description of Wagtails, i realize i need a beginners guide to bird terminology, classifications and slang used by bird watchers :)
 
 
-
 ![Bird, bird-watching](bird-birdwatching.webp)
 
 {{< pagebreak >}}

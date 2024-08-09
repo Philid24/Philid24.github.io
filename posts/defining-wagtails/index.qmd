@@ -1,36 +1,20 @@
 ---
-title: "Wagtails, starting with the basics"
+title: "Wagtails"
 author: "Philippa Dismorr"
 date: "2024-07-17"
 image: wagtail.jpg
 categories: [birds]
 ---
 
-## Definition and Origin 
+## Pied Wagtails
+
+![Pied Wagtail](wagtail.jpg)  
 
 The first bird i will explore is the Pied Wagtail. Isnt it beautiful? It can be spotted most places as it is a very adaptable bird. 
 
 ![Pied Wagtail](wagtail.jpg)  
 
-Before i begin introducing the definition and description of Wagtails, i realize i need a beginners guide to bird terminology, classifications and slang used by bird watchers :)
-
-
-![Bird, bird-watching](bird-birdwatching.webp)
-
-{{< pagebreak >}}
-Genus = Class or group, 
-Passerine birds = having feet that are adapted to perching, includes all songbirds.
-
-Bins = Binoculars 
-
-Bop = Bird of prey
-
-Patch = an area frequently visited by birdwatchers
-
-
-For a comprehensive collection of bird terminology check out Bird Academy by Cornell Lab, see link. [Bird Academy Glossary](https://academy.allaboutbirds.org/bird-academys-a-to-z-glossary-of-bird-terms/). I will add definitions and descriptions as they come up in my exploration. For the more casual terms thrown around by "birdies" here was an amusing Glossay of [Bird Watching Slang](https://birding-world.com/glossary-birdwatching-slang/). 
-
-So back to Wagtails. They are *passerine* birds and belong to the *genus* "Motacilla" (a latin name introduced by Swedish Naturalist Carl Von Linnaeus in 1758). The Motacillas are part of the family Motacillidae, which include Wagtails, Pipits and Longclaws. Within the Motacilla genus (Wagtails) there are 13 different species which are found all over the world. Now it starts to get confusing, (at least for me) because there are other types of wagtails that **do not** belong to the same genus. For example, the Willie Wagtail from Australia does not have the same genus, it belongs to group called Fantails. 
+Wagtails are *passerine* birds and belong to the genus "Motacilla" (a latin name introduced by Swedish Naturalist Carl Von Linnaeus in 1758). The Motacillas are part of the family Motacillidae, which include Wagtails, Pipits and Longclaws. Within the Motacilla genus (Wagtails) there are 13 different species which are found all over the world. Now it starts to get confusing, (at least for me) because there are other types of wagtails that **do not** belong to the same genus. For example, the Willie Wagtail from Australia does not have the same genus, it belongs to group called Fantails. 
 
 The African Pied Wagtail (Motacilla Aguimp) is the only black and white wagtail found in Africa. This species is prevalent throughout the country.The young African Pied Wagtails sport a brownish plumage, which transforms as they mature. Adult birds are easily recognizable by their distinct black and white coloration, they also have a prominent white eyebrow stripe
 

@@ -7,9 +7,11 @@ categories: [reptiles]
 ---
 ## The Brown House Snake 
 
+![A Brown House snake ](Lamprophiscapensis.jpg)
+
 The Brown House snake (Boaedon fuliginosus/capensis complex) is one of the most common snakes found throughout Africa. They belong to the genus Boaedon, and there are seven identified different species of house snakes, with the Brown House snake being the largest one.
 Although it will readily bite, it is completely harmless. It comes in a variety of colors: black, brown, olive green, "washed out" red, or beige. The best way to identify it is by the stripe above its eye extending to the back of the head. It is an adaptable snake often spotted in urban areas, where it feeds on rodents and lizards. Being nocturnal, it is also adept at climbing and has been observed scaling walls.
-We spotted one close to our home in Nairobi and were informed by the guards that it was a black mamba. However, after visiting the [Watamu Snake Farm](https://taaf-eastafricanreptiles.org/watamu-snake-farm//). on the coast of Kenya (a wonderful place with people who genuinely care about the creatures they're looking after), I quickly learned that black mambas are very rare in Nairobi. After showing the video I captured, it was confirmed that it was, in fact, the commonly known "house snake". This misconception is not uncommon and is influenced by the fear of snakes. Sadly, this means most of them are put down immediately. I hope that knowledge about these Brown house snakes can change this.
+We spotted one close to our home in Nairobi and were informed by the guards that it was a black mamba. However, after visiting the [Watamu Snake Farm](https://taaf-eastafricanreptiles.org/watamu-snake-farm//) on the coast of Kenya (a wonderful place with people who genuinely care about the creatures they're looking after), I quickly learned that black mambas are very rare in Nairobi. After showing the video I captured, it was confirmed that it was, in fact, the commonly known "house snake". This misconception is not uncommon and is influenced by the fear of snakes. Sadly, this means most of them are put down immediately. I hope that knowledge about these Brown house snakes can change this.
 
 Here are some fun facts I have learned:
 
@@ -19,6 +21,7 @@ Here are some fun facts I have learned:
 * The Brown House snake looks very similar to the Egyptian Cobra.
 * They are known to be good pets, especially for first-time snake owners.
 
-Here is the video we captured of a house snake:
+:::{.callout-note}
+*Ectophermic* ectotherm, any so-called cold-blooded animal—that is, any animal whose regulation of body temperature depends on external sources, such as sunlight or a heated rock surface. (Britannica)
 
 

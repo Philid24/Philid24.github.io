@@ -20,5 +20,4 @@ Bop = Bird of prey
 
 Patch = an area frequently visited by birdwatchers
 
-
 For a comprehensive collection of bird terminology check out Bird Academy by Cornell Lab, see link. [Bird Academy Glossary](https://academy.allaboutbirds.org/bird-academys-a-to-z-glossary-of-bird-terms/). I will add definitions and descriptions as they come up in my exploration. For the more casual terms thrown around by "birdies" here was an amusing Glossay of [Bird Watching Slang](https://birding-world.com/glossary-birdwatching-slang/). 

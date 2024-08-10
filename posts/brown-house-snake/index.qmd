@@ -7,7 +7,7 @@ categories: [reptiles]
 ---
 ## The Brown House Snake 
 
-![A Brown House snake ](Lamprophiscapensis.jpg)
+![A Brown House snake](Lamprophiscapensis.jpg)
 
 The Brown House snake (Boaedon fuliginosus/capensis complex) is one of the most common snakes found throughout Africa. They belong to the genus Boaedon, and there are seven identified different species of house snakes, with the Brown House snake being the largest one.
 Although it will readily bite, it is completely harmless. It comes in a variety of colors: black, brown, olive green, "washed out" red, or beige. The best way to identify it is by the stripe above its eye extending to the back of the head. It is an adaptable snake often spotted in urban areas, where it feeds on rodents and lizards. Being nocturnal, it is also adept at climbing and has been observed scaling walls.
@@ -23,5 +23,5 @@ Here are some fun facts I have learned:
 
 :::{.callout-note}
 *Ectophermic* ectotherm, any so-called cold-blooded animal—that is, any animal whose regulation of body temperature depends on external sources, such as sunlight or a heated rock surface. (Britannica)
-
+:::
 

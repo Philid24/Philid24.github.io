@@ -1,7 +1,7 @@
 ---
 title: "Praying Mantis"
 author: "Philippa Dismorr"
-date: "2024-08-13"
+date: "2024-08-15"
 image: praying-mantis.jpeg
 categories: [insects]
 ---
